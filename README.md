@@ -1,4 +1,4 @@
-![CI](https://github.com/USER/REPO/actions/workflows/tests.yml/badge.svg)
+![CI](https://github.com/piotrstolarski/TestKalkulator/actions/workflows/tests.yml/badge.svg)
 
 # Kalkulator – projekt do nauki Git ![tests](https://img.shields.io/badge/tests-pytest-blue)
 
