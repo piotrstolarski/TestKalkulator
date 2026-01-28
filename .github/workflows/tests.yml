@@ -19,3 +19,9 @@ jobs:
 
       - name: Run tests
         run: python -m pytest -q
+        
+      - name: Install lint tools
+        run: pip install ruff
+
+      - name: Lint
+        run: ruff check .
